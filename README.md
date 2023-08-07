@@ -7,3 +7,4 @@ Christopher Richard Chandra (19622154)</br>
 Thalita Zahra Sutejo (19622028)</br>
 Raffael Boymian Siahaan (19622108)</br>
 Ervina Limka (19622200)</br>
+Dimas Bagoes Hendrianto (19622190)</br>
