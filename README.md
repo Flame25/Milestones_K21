@@ -1,7 +1,7 @@
 # Milestones02_K21
 Repository Milestone 2 ini merupakan realisasi dari proposal yang diajukan oleh Kelompok 21 pada Milestone 1
 
-#List Anggota Kelompok 21:</br>
+# List Anggota Kelompok 21:</br>
 Farhan Raditya Aji (19622275)</br>
 Christopher Richard Chandra (19622154)</br>
 Thalita Zahra Sutejo (19622028)</br>
@@ -11,7 +11,7 @@ Dimas Bagoes Hendrianto (19622190)</br>
 Muhammad Naufal Aulia (19622132)</br>
 Mesach Harmasendro (19622193)</br>
 
-#Dekomposisi Masalah
+## Dekomposisi Masalah
 Berdasarkan latar belakang, tujuan utama dari pembuatan roadmap adalah untuk membantu mahasiswa baru mengakses informasi dengan mudah. Adapun dekomposisi masalah tersebut adalah sebagai berikut.</br>
 1. Banyak informasi yang tersebar luas</br>
 - Informasi yang ada kurang terpusat karena sumber informasi berbeda-beda.</br>
@@ -25,6 +25,6 @@ Berdasarkan latar belakang, tujuan utama dari pembuatan roadmap adalah untuk mem
 - Kurangnya pemahaman mahasiswa baru mengenai organisasi dan UKM yang ada.</br>
 - Mahasiswa baru kesulitan untuk memilih UKM yang diinginkan.</br>
 
-#Solusi
+## Solusi
 
 Ide solusi ini sebenarnya mirip dengan asesmen mahasiswa dimana nantinya para mahasiswa baru akan diminta untuk mengisi data diri dengan tujuan yang sama, yaitu mengenali tujuan dan minat dari Mahasiswa Baru. Pengguna juga akan diarahkan untuk menjawab beberapa pertanyaan kemudian dari hasil tes (survei awal) tersebut akan dibuat sebuah RoadMap Mahasiswa Baru yang sesuai dengan minat dan fakultas Mahasiswa Baru. RoadMap yang dimaksud disini berisi rekomendasi berbagai macam kegiatan,  UKM, dan apa yang harus dilakukan maba tersebut selama berkuliah yang disusun berdasarkan timeline tiap semesternya. Dengan adanya timeline, kami berharap agar website ini tidak hanya membantu maba menemukan lingkungan belajar yang tepat tapi juga bisa memanfaatkan waktu yang dimilikinya dengan baik agar tidak chaos.
