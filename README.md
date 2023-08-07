@@ -26,3 +26,5 @@ Berdasarkan latar belakang, tujuan utama dari pembuatan roadmap adalah untuk mem
 - Mahasiswa baru kesulitan untuk memilih UKM yang diinginkan.</br>
 
 #Solusi
+
+Ide solusi ini sebenarnya mirip dengan asesmen mahasiswa dimana nantinya para mahasiswa baru akan diminta untuk mengisi data diri dengan tujuan yang sama, yaitu mengenali tujuan dan minat dari Mahasiswa Baru. Pengguna juga akan diarahkan untuk menjawab beberapa pertanyaan kemudian dari hasil tes (survei awal) tersebut akan dibuat sebuah RoadMap Mahasiswa Baru yang sesuai dengan minat dan fakultas Mahasiswa Baru. RoadMap yang dimaksud disini berisi rekomendasi berbagai macam kegiatan,  UKM, dan apa yang harus dilakukan maba tersebut selama berkuliah yang disusun berdasarkan timeline tiap semesternya. Dengan adanya timeline, kami berharap agar website ini tidak hanya membantu maba menemukan lingkungan belajar yang tepat tapi juga bisa memanfaatkan waktu yang dimilikinya dengan baik agar tidak chaos.
