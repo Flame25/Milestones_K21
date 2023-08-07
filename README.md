@@ -1,6 +1,6 @@
 # Milestones02_K21
 Repository Milestone 2 ini merupakan realisasi dari proposal yang diajukan oleh Kelompok 21 pada Milestone 1
-
+Link Deploy: https://milestone-21.vercel.app/
 # List Anggota Kelompok 21:</br>
 Farhan Raditya Aji (19622275)</br>
 Christopher Richard Chandra (19622154)</br>
