@@ -1,4 +1,5 @@
-# Milestones_K21
+# Milestones02_K21
+Repository Milestone 2 ini merupakan realisasi dari proposal yang diajukan oleh Kelompok 21 pada Milestone 1
 
 List Anggota Kelompok 21:</br>
 Farhan Raditya Aji (19622275)</br>
