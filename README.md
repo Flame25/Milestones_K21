@@ -9,6 +9,7 @@ Raffael Boymian Siahaan (19622108)</br>
 Ervina Limka (19622200)</br>
 Dimas Bagoes Hendrianto (19622190)</br>
 Muhammad Naufal Aulia (19622132)</br>
+Mesach Harmasendro (19622193)</br>
 
 Berdasarkan latar belakang, tujuan utama dari pembuatan roadmap adalah untuk membantu mahasiswa baru mengakses informasi dengan mudah. Adapun dekomposisi masalah tersebut adalah sebagai berikut.</br>
 1. Banyak informasi yang tersebar luas</br>
