@@ -8,3 +8,4 @@ Thalita Zahra Sutejo (19622028)</br>
 Raffael Boymian Siahaan (19622108)</br>
 Ervina Limka (19622200)</br>
 Dimas Bagoes Hendrianto (19622190)</br>
+Muhammad Naufal Aulia (19622132)</br>
