@@ -13,6 +13,7 @@ Mesach Harmasendro (19622193)</br>
 Athhar Mahendra Umar (19622064)</br>
 Gabriel Marcellino (19622291) </br>
 Aqila Ataa (19622299) </br>
+Rayhan Fadhlan (19622045) </br>
 
 ## Dekomposisi Masalah
 Berdasarkan latar belakang, tujuan utama dari pembuatan roadmap adalah untuk membantu mahasiswa baru mengakses informasi dengan mudah. Adapun dekomposisi masalah tersebut adalah sebagai berikut.</br>
